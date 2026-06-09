@@ -1,5 +1,13 @@
 # Sophium - Especificação de Requisitos de Software
 
+# Sophium
+
+📚 Projeto Acadêmico | Engenharia de Requisitos de Software
+
+Status: Concluído
+Tipo: Especificação de Requisitos de Software (SRS)
+Instituição: PUC Minas
+
 ## Sobre o Projeto
 
 O Sophium é uma proposta de aplicativo mobile voltado para organização de estudos, utilizando conceitos de gamificação para incentivar a disciplina, a constância e o engajamento dos estudantes.
